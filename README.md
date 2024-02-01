@@ -16,11 +16,11 @@ Link para a compra do ingresso [aqui.](https://www.sympla.com.br/evento/awsome-w
 
 
 # DevOpsDays São Paulo
-**Endereço:** Teatro Gazeta, Av. Paulista, 900 - Bela Vista, São Paulo - SP, 01310-100
+**Endereço:**  Hotel Pullman São Paulo Vila Olímpia, São Paulo, SP.
 
-**Data e horário:** 18 de maio de 2024, horário a definir.
+**Data e horário:** 18 de maio de 2024, das 10:00 até 20:00
 
-Link para a compra do ingresso [em breve.](https://devopsdays.org/events/2024-sao-paulo/welcome/) 
+Link para a compra do ingresso [aqui.](https://devopsdays.org/events/2024-sao-paulo/welcome/) 
 
 # AWS Summit Brasil 2024
 Mais informações em breve.

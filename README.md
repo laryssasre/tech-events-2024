@@ -26,4 +26,11 @@ Link para a compra do ingresso [aqui.](https://devopsdays.org/events/2024-sao-pa
 Mais informações em breve.
 
 # Python Brasil 2024
-Mais informações em breve.
+Mais informações em breve. 
+
+# Big data brazil experience
+**Endereço:** Auditório Ruy Barbosa ( Teatro Mackenzie ), São Paulo - SP
+
+**Data e horário:** 16 de novembro de 2024, das 08:00 até 17:30.
+
+Link para a compra do ingresso [aqui.](https://www.bigdatabrazilexperience.com.br/#pricing)
